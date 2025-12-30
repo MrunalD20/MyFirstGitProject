@@ -1,1 +1,1 @@
-console.log("Portfolio project started");
+console.log("Welcome to Mrunal's portfolio!");
